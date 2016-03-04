@@ -1,2 +1,2 @@
 # Cassmon
-Cassandra Monitoring Tool. A replacement of nodetool utility
+Cassandra Monitoring Tool. An alternative to nodetool utility
